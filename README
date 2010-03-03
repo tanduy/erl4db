@@ -1,0 +1,8 @@
+This is fork from git://github.com/yariv/erlyweb.git
+Customized for database in Erlang
+
+
+After install Erlang (/usr/local/lib/erlang) 
+Copy the source in lib of Erlang (/usr/local/lib/erlang/lib)
+
+make 
