@@ -3,6 +3,6 @@ Customized for database in Erlang
 
 
 After install Erlang (/usr/local/lib/erlang) 
-Copy the source in lib of Erlang (/usr/local/lib/erlang/lib)
+Copy the source in the lib of Erlang (/usr/local/lib/erlang/lib)
 
 make 
